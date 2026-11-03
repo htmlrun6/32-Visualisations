@@ -6,6 +6,7 @@ A lightweight, original music visualiser player that runs entirely in the browse
 - Select or drag & drop **MP3 files only** (other formats, including MP4, are rejected)
 - 64 real-time visualisations (16 styles x 4 colour palettes), powered by the Web Audio API
 - Playlist, seek, volume, auto-cycle mode, fullscreen
+- Beat flash, hue slider for custom colours, and optional microphone visualisation
 - Works on desktop and mobile
 
 ## Run
