@@ -1,10 +1,10 @@
-# 32 Visualisations
+# 64 Visualisations
 
 A lightweight, original music visualiser player that runs entirely in the browser. No build step, no dependencies.
 
 ## Features
 - Select or drag & drop **MP3 files only** (other formats, including MP4, are rejected)
-- 32 real-time visualisations (8 styles x 4 colour palettes), powered by the Web Audio API
+- 64 real-time visualisations (16 styles x 4 colour palettes), powered by the Web Audio API
 - Playlist, seek, volume, auto-cycle mode, fullscreen
 - Works on desktop and mobile
 
